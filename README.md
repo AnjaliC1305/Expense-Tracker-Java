@@ -16,7 +16,6 @@ A simple Java console-based application to record and analyze daily expenses. Th
 - File Handling  
 - OOP Concepts (Classes, Objects, Encapsulation)
 
-## Project Structure
 ExpenseTrackerProject/
  ├── ExpenseTracker.java
  ├── Expense.java
