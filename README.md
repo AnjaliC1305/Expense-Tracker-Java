@@ -21,6 +21,7 @@ ExpenseTrackerProject/
  ├── ExpenseTracker.java
  ├── Expense.java
  └── expenses.txt
+
 *(expenses.txt is auto-created if missing)*
 
 ## How to Run
