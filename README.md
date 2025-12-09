@@ -16,10 +16,11 @@ A simple Java console-based application to record and analyze daily expenses. Th
 - File Handling  
 - OOP Concepts (Classes, Objects, Encapsulation)
 
-ExpenseTrackerProject/
- ├── ExpenseTracker.java
- ├── Expense.java
- └── expenses.txt
+## Project Structure
+    ExpenseTrackerProject/
+        ├── ExpenseTracker.java
+        ├── Expense.java
+        └── expenses.txt
 
 *(expenses.txt is auto-created if missing)*
 
@@ -30,6 +31,7 @@ Make sure Java (JDK 17 or later) is installed.
 javac ExpenseTracker.java
 java ExpenseTracker
 
+
 --- Expense Tracker ---
 1. Add Expense
 2. View Total Expense
@@ -37,7 +39,3 @@ java ExpenseTracker
 4. View Highest Spending Day
 5. View All Expenses
 6. Exit
-
-
-
-
